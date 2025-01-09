@@ -6,14 +6,9 @@
 Previously worked on web development projects, building intuitive and efficient applications using React and now
 actively pursuing Cloud Data Engineering training at Saylani Welfare to enhance my expertise in cloud technologies and data systems.
 
-📊 Career Goal:\
+📊 Career Goal:
 
 I’m passionate about creating impactful software solutions. While I have experience in web and desktop app development, I’m now focusing on data-driven technologies and aspire to grow as a data engineer.
-
-💡 Let’s Connect:
-
-LinkedIn: rayyansajidd
-Email: rayyan1291@gmail.com
 
 
 ## 🌐 Socials:
